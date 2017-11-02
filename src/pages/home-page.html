@@ -5,6 +5,7 @@
 <link rel="import" href="../elements/statistics-block.html">
 <link rel="import" href="../elements/featured-people.html">
 <link rel="import" href="../elements/about-block.html">
+<link rel="import" href="../elements/photo-block.html">
 <link rel="import" href="../elements/tickets-block.html">
 <link rel="import" href="../elements/latest-posts.html">
 <link rel="import" href="../elements/footer-block.html">
@@ -20,6 +21,9 @@
     <statistics-block app="{{app}}" cascaded></statistics-block>
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
     <about-block app="{{app}}" cascaded></about-block>
+    {% if gallery %}
+      <photo-block app="{{app}}" cascaded></photo-block>
+    {% endif %}
     <social-feed app="{{app}}" cascaded></social-feed>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
     <logos-block app="{{app}}" cascaded></logos-block>
