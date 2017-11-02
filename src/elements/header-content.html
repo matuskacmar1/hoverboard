@@ -132,14 +132,8 @@
                           alt="GDG DevFest Slovakia 2017"></iron-image>
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
-              {% if pages.home.headerSettings.video %}
-                <div class="open-video" on-tap="_openVideo">
-                  <iron-icon icon="play"></iron-icon>
-                  {$ playIcon $}
-                </div>
-              {% endif %}
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
+                <paper-button class="primary" on-tap="_scrollToTickets" raised>Zaregistruj sa</paper-button>
               </div>
             </div>
           </div>

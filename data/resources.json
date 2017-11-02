@@ -108,7 +108,8 @@
   "statistics": [
     {
       "counter": 0,
-      "caption": "Prihlásených"
+      "caption": "Prihlásených",
+      "minimum": 15
     },
     {
       "counter": 1,
