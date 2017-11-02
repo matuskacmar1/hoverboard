@@ -17,41 +17,17 @@
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
     }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/logos/adante_svg.svg",
+      "name" : "Adante Systems",
+      "url" : "http://adante.systems/"
     }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
+      "logoUrl" : "../images/logos/tuke_logo.png",
+      "name" : "Technická Univerzita v Košiciach",
+      "url" : "https://www.tuke.sk"
     }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/logos/gbg.png",
+      "name" : "GBG Košice",
+      "url" : "http://www.gbgkosice.sk/"
     } ],
     "title" : "General Partner"
   } ],
@@ -1289,45 +1265,33 @@
   } ],
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
+      "name" : "Dávid Kováč",
       "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
+        "link" : "https://www.facebook.com/kovkus",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/kovkus",
         "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
       } ],
-      "title" : "Website and sponsors"
+      "title" : "Zakladateľ"
     }, {
-      "name" : "Sofiya Huts",
+      "name" : "Miroslav Košík",
       "photoUrl" : "/images/people/sofiya_huts.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
+        "link" : "https://www.facebook.com/miroslav.kosik",
         "name" : "Facebook"
       } ],
-      "title" : "Social and media"
+      "title" : "Organizátor"
     }, {
-      "name" : "Vitaliy Zasadnyy",
+      "name" : "Peter Varhoľák",
       "photoUrl" : "/images/people/vitaliy_zasadnyy.jpg",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
+        "link" : "https://www.linkedin.com/in/",
         "name" : "Linkedin"
       }, {
         "icon" : "twitter",
@@ -1338,9 +1302,9 @@
         "link" : "http://v.zasadnyy.com/",
         "name" : "Blog"
       } ],
-      "title" : "Speakers"
+      "title" : "Organizátor"
     }, {
-      "name" : "Marta Maxymiak",
+      "name" : "Peter Tóth",
       "photoUrl" : "/images/people/marta_maxymiak.jpg",
       "socials" : [ {
         "icon" : "gplus",
@@ -1351,9 +1315,9 @@
         "link" : "https://www.facebook.com/marta.maxymiak",
         "name" : "Facebook"
       } ],
-      "title" : "Party and happiness"
+      "title" : "Organizátor"
     }, {
-      "name" : "Ostap Andrusiv",
+      "name" : "Matúš Kačmár",
       "photoUrl" : "/images/people/ostap_andrusiv.jpg",
       "socials" : [ {
         "icon" : "gplus",
@@ -1372,9 +1336,9 @@
         "link" : "http://andrusiv.com/",
         "name" : "Blog"
       } ],
-      "title" : "Sponsors"
+      "title" : "Organizátor"
     }, {
-      "name" : "Vasylyna Mytsak",
+      "name" : "Dominik Nezbala",
       "photoUrl" : "/images/people/vasylyna_mytsak.jpg",
       "socials" : [ {
         "icon" : "gplus",
@@ -1385,9 +1349,9 @@
         "link" : "https://www.facebook.com/vasylyna.mytsak",
         "name" : "Facebook"
       } ],
-      "title" : "Party and happiness"
+      "title" : "Organizátor"
     }, {
-      "name" : "Volodya Karpliuk",
+      "name" : "Diana Vysoká",
       "photoUrl" : "/images/people/volodya_karpliuk.jpg",
       "socials" : [ {
         "icon" : "gplus",
@@ -1402,9 +1366,9 @@
         "link" : "https://twitter.com/keyv23",
         "name" : "Twitter"
       } ],
-      "title" : "Speakers"
+      "title" : "Organizátorka"
     }, {
-      "name" : "Diana Pinchuk",
+      "name" : "Richard Sokol",
       "photoUrl" : "/images/people/diana_pinchuk.jpg",
       "socials" : [ {
         "icon" : "gplus",
@@ -1415,204 +1379,20 @@
         "link" : "https://www.facebook.com/diana.pinchuk.9",
         "name" : "Facebook"
       } ],
-      "title" : "Social and media"
+      "title" : "Organizátor"
     } ],
     "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photoUrl" : "/images/people/dmytro_danylyk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
   } ],
   "tickets" : {
     "elements" : [ {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "info" : "Requires valid student ID",
-      "name" : "Student",
-      "price" : 500,
+      "currency" : "€",
+      "ends" : "Nov 24",
+      "info" : "Access to afterparty, cattering",
+      "name" : "VIP",
+      "price" : 20,
       "soldOut" : false,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "July 1",
-      "info" : "Or first 100 tickets",
-      "name" : "Early Bird",
-      "price" : 750,
-      "soldOut" : true,
-      "starts" : "May 1"
-    }, {
-      "currency" : "₴",
-      "ends" : "Sep 8",
-      "name" : "Lazy Bird",
-      "price" : 1000,
-      "soldOut" : false,
-      "starts" : "July 1"
+      "starts" : "November 2"
     } ],
     "url" : "http://2event.com/events/630032"
-  },
-  "videos" : [ {
-    "speakers" : "Jakub Škvára",
-    "thumbnail" : "/images/sessions/116.JPG",
-    "title" : "Polymer vs other libraries",
-    "youtubeId" : "-UEURYYVCmg"
-  }, {
-    "speakers" : "Mandy Waite",
-    "thumbnail" : "/images/sessions/109.JPG",
-    "title" : "Scalable Microservices with gRPC, Kubernetes, and Containers",
-    "youtubeId" : "BZ-uR8LQRkA"
-  }, {
-    "speakers" : "Mandy Waite",
-    "thumbnail" : "/images/sessions/110.JPG",
-    "title" : "Google Cloud Platform End to End: How we built 'Cloud Spin'",
-    "youtubeId" : "n-H6jYnL32U"
-  }, {
-    "speakers" : "Mateusz Herych",
-    "thumbnail" : "/images/sessions/102.JPG",
-    "title" : "How can Android Backup break your app",
-    "youtubeId" : "89wvLLc25AY"
-  }, {
-    "speakers" : "Alex Pazhyn",
-    "thumbnail" : "/images/sessions/113.JPG",
-    "title" : "Material Design. Custom Branding",
-    "youtubeId" : "3u8864j4g24"
-  }, {
-    "speakers" : "Viktor Zozuliak",
-    "thumbnail" : "/images/sessions/122.JPG",
-    "title" : "Service Worker - Native Apps Experience For The Web",
-    "youtubeId" : "szLFi1aO398"
-  }, {
-    "speakers" : "Said Tahsin Dane",
-    "thumbnail" : "/images/sessions/101.JPG",
-    "title" : "Material Design on Custom Views",
-    "youtubeId" : "nFZxAIi8n7I"
-  }, {
-    "speakers" : "Ihor Dvoretskyi",
-    "thumbnail" : "/images/sessions/135.JPG",
-    "title" : "The Cloud Convergence: OpenStack and Kubernetes",
-    "youtubeId" : "3zbxUcyiP8Y"
-  }, {
-    "speakers" : "Juarez Filho",
-    "thumbnail" : "/images/sessions/120.JPG",
-    "title" : "Firebase Adventures - Real time platform for your apps",
-    "youtubeId" : "uz4vA21lqoE"
-  }, {
-    "speakers" : "Anton Minashkin",
-    "thumbnail" : "/images/sessions/134.JPG",
-    "title" : "Data Binding. Next big thing?",
-    "youtubeId" : "GYwvQ0YAPo4"
-  }, {
-    "speakers" : "Hallade Xavier",
-    "thumbnail" : "/images/sessions/112.JPG",
-    "title" : "Mastering the NDK with Android Studio 1.3+ and the gradle-experimental plugin",
-    "youtubeId" : "GbTe0BTuNaU"
-  }, {
-    "speakers" : "Jana Moudrá",
-    "thumbnail" : "/images/sessions/115.JPG",
-    "title" : "Let's play Dart!",
-    "youtubeId" : "DoUATBQcihI"
-  }, {
-    "speakers" : "Valentyn Shybanov",
-    "thumbnail" : "/images/sessions/106.JPG",
-    "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform",
-    "youtubeId" : "euROYVOJYuI"
-  }, {
-    "speakers" : "Semih Yagcioglu",
-    "thumbnail" : "/images/sessions/124.JPG",
-    "title" : "Build Your Thing In a Weekend with AngularJS 2.0",
-    "youtubeId" : "gHd-0itPpGg"
-  }, {
-    "speakers" : "Dawid Ostrowski",
-    "thumbnail" : "/images/sessions/125.JPG",
-    "title" : "[Keynote] Lean Startup with Google",
-    "youtubeId" : "o04aL3IzmcQ"
-  }, {
-    "speakers" : "Constantine Mars",
-    "thumbnail" : "/images/sessions/133.JPG",
-    "title" : "RxJava for Android",
-    "youtubeId" : "3LQnqJhGQmI"
-  }, {
-    "speakers" : "Roman Mazur",
-    "thumbnail" : "/images/sessions/104.JPG",
-    "title" : "Power of Android Shell",
-    "youtubeId" : "a4InM2VhAvQ"
-  }, {
-    "speakers" : "Dmytro Danylyk",
-    "thumbnail" : "/images/sessions/103.JPG",
-    "title" : "Planning Android Screens",
-    "youtubeId" : "gQbjjOE2yF4"
-  }, {
-    "speakers" : "Dima Maleev",
-    "thumbnail" : "/images/sessions/108.JPG",
-    "title" : "V8 under the hood",
-    "youtubeId" : "Oazl4fx-X68"
-  }, {
-    "speakers" : "Kseniia Shumelchyk",
-    "thumbnail" : "/images/sessions/117.JPG",
-    "title" : "Bluetooth Low Energy and iBeacon development for Android",
-    "youtubeId" : "tEUmmZDwHDg"
-  }, {
-    "speakers" : "Maciej Górski",
-    "thumbnail" : "/images/sessions/114.JPG",
-    "title" : "Continuous Delivery with Ease",
-    "youtubeId" : "b-4upgkYdZo"
-  }, {
-    "speakers" : "Michał Tajchert",
-    "thumbnail" : "/images/sessions/105.JPG",
-    "title" : "Hijacking notification actions - lets respond to your messages!",
-    "youtubeId" : "2rT4Us7cFDg"
-  }, {
-    "speakers" : "Roman Herasymenko",
-    "thumbnail" : "/images/sessions/111.JPG",
-    "title" : "New security model in Marshmallow",
-    "youtubeId" : "lFpb-LaYDvs"
-  }, {
-    "speakers" : "Valentyn Shybanov",
-    "thumbnail" : "/images/sessions/107.JPG",
-    "title" : "Angular2: Reasoning behind technical decisions",
-    "youtubeId" : "V7GCjnfsOCE"
-  }, {
-    "speakers" : "",
-    "thumbnail" : "/images/sessions/140.JPG",
-    "title" : "Fireside Chat",
-    "youtubeId" : "8kXNWOhEAhE"
-  }, {
-    "speakers" : "Alexey Rybakov",
-    "thumbnail" : "/images/sessions/119.JPG",
-    "title" : "Android TV Development",
-    "youtubeId" : "SoXb9cXnJhc"
-  }, {
-    "speakers" : "Buşra Deniz",
-    "thumbnail" : "/images/sessions/123.JPG",
-    "title" : "Google WebRTC on Mobile",
-    "youtubeId" : "YWaOdwCenZM"
-  } ]
+  }
 }

@@ -1,25 +1,25 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-11-24T09:00:00+03:00",
+  "endDate": "2017-11-24T19:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Košice",
+    "twitter": "gdgke"
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#2196F3",
+    "backgroundColor": "#2196F3"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest-ke",
+    "domain": "devfest-ke.firebaseapp.com",
+    "database": "https://devfest-ke.firebaseio.com",
+    "api": "AIzaSyBABE0dwNuTzBX8Iaf1QTUxK1AgAqoTXd0",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -32,7 +32,7 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "dfke",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -42,14 +42,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
     },
     {
       "route": "speakers",
@@ -63,65 +55,54 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "gdgke",
+      "url": "https://twitter.com/gdgke"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "url": "https://plus.google.com/108346197166929309455"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "gdgke",
+      "url": "https://www.facebook.com/gdgke/"
     },
     {
       "name": "linkedin",
       "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "url": "https://www.linkedin.com/company/gdg-ko-ice"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Technická Univerzita v Košiciach",
+    "address": "Letná 1/9, 040 01 Košice",
+    "link": "http://www.tuke.sk/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 48.730506,
+      "longitude": 21.245594,
+      "zoom": 19
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 48.7305000,
+      "longitude": 21.2555994
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_1.png",
+      "/images/backgrounds/location_2.jpg"
     ]
-  },
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
-      "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
-      ]
-    }
   },
   "pages": {
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#fff",
         "backgroundImage": "/images/backgrounds/home.png",
-        "fontColor": "#fff",
+        "fontColor": "#000",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Kosice 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
@@ -129,26 +110,10 @@
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "schedule": {
-      "title": "Schedule",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

@@ -1,63 +1,63 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "GDG DevFest Season 2017",
+  "description": "GDG Košice opäť prináša DevFest, najväčšiu konferenciu o Google technológiách na Slovensku!  DevFest Košice je jedinečný event otvorený pre všetky vývojárky a vývojárov.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
-  "soldOutTickets": "Sold Out",
-  "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
+  "dates": "November 24, 2017",
+  "locationAddressShort": "Košice, Slovensko",
+  "motto": "Konferencia nabitá technológiamy od Googlu!",
+  "playIcon": "Pozri sa aké to bolo v roku 2016",
+  "c4p": "Staň sa speakerom",
+  "buyTicket": "Kúp si VIP lístok",
+  "backToTop": "Späť hore",
+  "subscribe": "Odoberať",
+  "yourEmail": "Tvoj email",
+  "subscribeNote": "Žiaden spam, len horúce novinky!",
+  "contactUs": "Kontaktuj nás",
+  "ticketsTitle": "Lístky",
+  "ticketsDetails": "VIP lístok ti zaručí občerstvenie a prístup na afterparty so speakermi",
+  "close": "Zavrieť",
+  "soldOutTickets": "Vypredané",
+  "socialTitle": "Sociálne médiá",
+  "socialMotto": "Pridaj si nás do kruhov, likni, followuj spoj sa s nami na",
   "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
+  "clickToViewPhotos": "Zobraziť viac",
+  "partners": "Partneri",
+  "becomePartner": "Stanťe sa partnerom",
+  "featuredVideosTitle": "",
+  "featuredVideosViewAll": "",
+  "featuredPeopleTitle": "Rockstar Speakeri",
+  "featuredPeopleViewAll": "Zobraziť všetkých speakerov",
+  "action": "Pozri sa aké to bolo",
+  "locationTitle": "Technická Univerzita v Košiciach",
+  "locationDescription": "Prednáškové miestnosti v budove L9B",
+  "locationAddress": "Letná 1/9, 040 01 Košice",
+  "organizerTitle": "Organizátor",
+  "aboutOrganizers": "<a href='http://www.gdg.sk' target='_blank'>GDG Košice</a>",
+  "openTeamPage": "Otvoriť team page",
+  "whatIsGdg": "Čo je to GDG?",
+  "aboutGdg": "Google Developers Group (GDG) - je otvorená skupina dobrovoľníkov, geekov a nadšencov Google technológií kotrá sa zaoberá vztváraním zaujímavých projektov alebo prípravou prednášok a konferencií o technológiách",
+  "readMore": "Prečítať viac",
+  "copyLink": "Kopírovať link",
+  "filteredBy": "Zoradiť podľa",
   "clearAll": "Clear all",
   "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
+  "latestNews": "Novinky",
+  "continueReading": "Pokračovať v čítaní",
+  "viewPresentation": "Zobrazit prezentáciu",
+  "viewVideo": "Zobraziť video",
   "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "mySchedule": "My Schedule",
+  "share": "Zdieľať",
+  "shareWith": "Zdieľať s",
+  "signIn": "Prihlásiť",
+  "signOut": "Odhlásiť",
+  "mySchedule": "Môj rozvrh",
   "browseMore": "Browse more events",
   "youShouldSignInSessions": "Sign in to save sessions",
   "youShouldSignInRating": "Sign in to rate sessions",
   "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "removedFromSchedule": "Odstránené z môjho rozvrhu",
+  "addedToSchedule": "Pridané do môjho rozvrhu",
+  "rateSession": "Ohodnoť prednášku",
   "footerBlocks": [
     {
       "title": "For visitors",
@@ -76,21 +76,6 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
@@ -99,7 +84,7 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "https://docs.google.com/presentation/d/1SBnnvy06liCqv2legnoq0IrYxNmx1WvokLND5O4hJPI/edit?usp=sharing",
           "newTab": true
         },
         {
@@ -122,20 +107,20 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 0,
+      "caption": "Prihlásených"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "Deň"
     },
     {
       "counter": 30,
-      "caption": "Sessions"
+      "caption": "Prednášok"
     },
     {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": 2,
+      "caption": "Tracky"
     }
   ],
   "callToAction": {
