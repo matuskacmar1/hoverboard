@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Season 2017",
-  "description": "GDG Košice opäť prináša DevFest, najväčšiu konferenciu o Google technológiách na Slovensku!  DevFest Košice je jedinečný event otvorený pre všetky vývojárky a vývojárov.",
+  "description": "GDG Košice opäť prináša DevFest, najväčšiu konferenciu o Google technológiách na Slovensku! DevFest Košice je jedinečný event otvorený všetkým vývojárkam a vývojárom.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 24, 2017",
   "locationAddressShort": "Košice, Slovensko",
@@ -18,7 +18,7 @@
   "close": "Zavrieť",
   "soldOutTickets": "Vypredané",
   "socialTitle": "Sociálne médiá",
-  "socialMotto": "Pridaj si nás do kruhov, likni, followuj spoj sa s nami na",
+  "socialMotto": "Pridaj si nás do kruhov, likni, followuj, spoj sa s nami na",
   "beforeHashtag": "What's up",
   "clickToViewPhotos": "Zobraziť viac",
   "partners": "Partneri",
@@ -104,7 +104,7 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google je známy po celom svete, všetci \"gúglujú\", navigujú sa pomocou máp a komunikujú skrz Gmail. Pre bežných používateľov tieto služby jednoducho fungujú, no nie pre nás. Developeri vidia omnoho viac a práve o tom je GDG.<br><br> Google Developers Group (GDG) - je otvorená skupina dobrovoľníkov, geekov a nadšencov Google technológií ktorá sa zaoberá vytváraním zaujímavých projektov alebo prípravou prednášok a konferencií o technológiách. Našim cieľom je spájať odborníkov v odvetví so slovenským publikom a zvýšiť tak úroveň IT na Slovensku.",
   "statistics": [
     {
       "counter": 0,
