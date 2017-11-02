@@ -133,7 +133,7 @@
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>Zaregistruj sa</paper-button>
+                <paper-button class="primary" on-tap="_register" raised>Zaregistruj sa</paper-button>
               </div>
             </div>
           </div>
@@ -185,13 +185,8 @@
           HOVERBOARD.Analytics.trackEvent('video', 'watch', '{$ pages.home.headerSettings.video.title $}');
         },
 
-        _scrollToTickets: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
-          Polymer.AppLayout.scroll({
-            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
-            behavior: 'smooth',
-            target: HOVERBOARD.Elements.Scroller
-          });
+        _register: function () {
+          window.location.href = 'https://www.meetup.com/gdg-ke/events/242259980/';
         }
 
       });
