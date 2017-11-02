@@ -82,10 +82,10 @@
     "pointer": {
       "latitude": 48.730506,
       "longitude": 21.245594,
-      "zoom": 19
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 48.7305000,
+      "latitude": 48.7304995,
       "longitude": 21.2555994
     },
     "images": [
