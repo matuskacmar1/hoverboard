@@ -115,6 +115,7 @@
       "title": "Speakers",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/speaker-header.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -123,6 +124,7 @@
       "title": "Team",
       "headerSettings": {
         "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/team-header.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
