@@ -78,7 +78,7 @@
 
       .photo-overlay {
         @apply(--layout-fit);
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.5) 4%, rgba(0, 0, 0, 0) 50%);
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 35%);
       }
 
       .badges {
@@ -183,6 +183,7 @@
             <a href$="/speakers/[[speaker.id]]/" class="header">
               <iron-image src="[[speaker.photoUrl]]" class="photo placeholder-color" preload fade
                           sizing="cover"></iron-image>
+              <div class="photo-overlay"></div>
               <ul class="badges">
                 <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
                   <li class="badge">
