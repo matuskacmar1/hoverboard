@@ -89,7 +89,7 @@
         },
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://drive.google.com/drive/folders/0B2dnaIFN_IaiLTZXc0Z3OS13WFU?usp=sharing",
           "newTab": true
         }
       ]
@@ -106,10 +106,10 @@
   "gallery": {
     "albumUrl": "https://plus.google.com/photos/108346197166929309455/album/6095291054002823585",
     "photos": {
-      "big": "/images/backgrounds/DSC_0359.jpg",
+      "big": "https://lh3.googleusercontent.com/8un_7VQK7oZdXxBdFUBV6NOOrpVeWuwfkLmJ8rmZn9YlQx641FaUEkIa8W0dNn1FzpZX2E7XFT-big=w4096-h2730-rw-no",
       "small": [
-        "/images/backgrounds/DSC_0296.jpg",
-        "/images/backgrounds/DSC_0339.jpg"
+        "https://lh3.googleusercontent.com/oxhSs4t8eCpeF_hn2jgltXLEg9OQqyc-tCCUPae0VhwqbJY19jCWtTc6QyDL_vhgkM6VV6sECx-CZw=w4096-h2730-rw-no",
+        "https://lh3.googleusercontent.com/1wuCHco8VjEtz81hkhH8s4pQWib7enLNvT58Sl-D3RrbqHE_MtXRgKjr1ZAveqaz0t4zscVlDJ6Szg=w4096-h2730-rw-no"
       ]
     }
   },
