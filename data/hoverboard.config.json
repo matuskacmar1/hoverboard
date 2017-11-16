@@ -48,6 +48,10 @@
       "permalink": "/speakers/"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -116,6 +120,14 @@
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "backgroundImage": "/images/backgrounds/speaker-header.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
