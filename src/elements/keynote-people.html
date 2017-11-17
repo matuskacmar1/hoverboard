@@ -223,47 +223,49 @@
       }
     </style>
 
-    <div class="container">
-      <h4 class="heading">Keynote speakeri</h4>
-      <div class="people-wrapper">
-        <template is="dom-repeat" items="[[featuredPeople]]" as="speaker">
-          <div class="speaker" cascaded>
-            <paper-material class="card">
-              <a href$="/speakers/[[speaker.id]]/" class="header">
-                <iron-image src="[[speaker.photoUrl]]" class="photo placeholder-color" preload fade
-                            sizing="cover"></iron-image>
-                <div class="photo-overlay"></div>
-                <ul class="badges">
-                  <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
-                    <li class="badge">
-                      <a href$="[[badge.link]]" target="_blank" rel="noopener noreferrer">[[badge.name]]</a>
-                      <paper-tooltip>[[badge.description]]</paper-tooltip>
-                    </li>
+    <template is="dom-if" if="{{showKeynote}}">
+      <div class="container">
+        <h4 class="heading">Keynote speakeri</h4>
+        <div class="people-wrapper">
+          <template is="dom-repeat" items="[[featuredPeople]]" as="speaker">
+            <div class="speaker" cascaded>
+              <paper-material class="card">
+                <a href$="/speakers/[[speaker.id]]/" class="header">
+                  <iron-image src="[[speaker.photoUrl]]" class="photo placeholder-color" preload fade
+                              sizing="cover"></iron-image>
+                  <div class="photo-overlay"></div>
+                  <ul class="badges">
+                    <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
+                      <li class="badge">
+                        <a href$="[[badge.link]]" target="_blank" rel="noopener noreferrer">[[badge.name]]</a>
+                        <paper-tooltip>[[badge.description]]</paper-tooltip>
+                      </li>
+                    </template>
+                  </ul>
+                  <div class="bottom-image-text">
+                    <span class="name">[[speaker.name]]</span>
+                    <span class="title">[[speaker.country]]</span>
+                  </div>
+                </a>
+                <a href$="/speakers/[[speaker.id]]/" class="card-content">
+                  <marked-element class="details-text" markdown="[[speaker.shortBio]]">
+                    <div class="markdown-html"></div>
+                  </marked-element>
+                </a>
+                <div class="card-actions">
+                  <template is="dom-repeat" items="[[speaker.socials]]" as="social">
+                    <a href="[[social.link]]" target="_blank" rel="noopener noreferrer">
+                      <paper-icon-button class="social-icon"
+                                        icon$="icons:{{social.icon}}"></paper-icon-button>
+                    </a>
                   </template>
-                </ul>
-                <div class="bottom-image-text">
-                  <span class="name">[[speaker.name]]</span>
-                  <span class="title">[[speaker.country]]</span>
                 </div>
-              </a>
-              <a href$="/speakers/[[speaker.id]]/" class="card-content">
-                <marked-element class="details-text" markdown="[[speaker.shortBio]]">
-                  <div class="markdown-html"></div>
-                </marked-element>
-              </a>
-              <div class="card-actions">
-                <template is="dom-repeat" items="[[speaker.socials]]" as="social">
-                  <a href="[[social.link]]" target="_blank" rel="noopener noreferrer">
-                    <paper-icon-button class="social-icon"
-                                       icon$="icons:{{social.icon}}"></paper-icon-button>
-                  </a>
-                </template>
-              </div>
-            </paper-material>
-          </div>
-        </template>
+              </paper-material>
+            </div>
+          </template>
+        </div>
       </div>
-    </div>
+    </template>
 
   </template>
 
@@ -289,6 +291,7 @@
         _peopleChanged: function () {
           var people = this._toArray(this.people);
           this.featuredPeople = people.filter(function (person) { return person.keynote; });
+          this.showKeynote = this.featuredPeople.length > 0;
         }
 
       });
