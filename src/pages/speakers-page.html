@@ -223,14 +223,6 @@
           </paper-material>
         </div>
       </template>
-      <!-- remove me once we decide there are no more -->
-      <div class="speaker more-coming" cascaded>
-        <paper-material class="card">
-          <iron-image src="/images/people/soon.png" class="photo placeholder-color" preload fade
-                      sizing="cover"></iron-image>
-        </paper-material>
-      </div>
-      <!-- end of remove section -->
     </div>
     <footer-block app="{{app}}" cascaded></footer-block>
 
@@ -317,7 +309,7 @@
         },
 
         _isConfirmed: function (speaker) {
-          return speaker.confirmed;
+          return speaker.confirmed && !speaker.keynote;
         }
       });
 
