@@ -6,6 +6,7 @@
     "gulp": "gulp",
     "bower": "bower",
     "build": "gulp",
+    "deploy": "gulp && firebase deploy",
     "postinstall": "bower install",
     "serve": "gulp serve"
   },
