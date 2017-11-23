@@ -36,6 +36,20 @@
         padding-left: 0;
       }
 
+      .last-minute-headlines {
+        display: none;
+      }
+
+      @media screen and (min-width: 768px) {
+        .last-minute-headlines {
+          display: flex;
+          padding-left: 140px;
+          padding-top: 50px;
+          justify-content: space-around;
+          text-align: center;
+        }
+      }
+
       schedule-day {
         margin-bottom: 64px;
       }
@@ -69,6 +83,16 @@
         selected-day="[[app.selectedDay]]"
         filters="{{filters}}"
       ></schedule-subnav>
+      <div class="last-minute-headlines">
+        <div>
+          <h1><b>Track SERGEY</b></h1>
+          <h3>P26 (poslucháreň TEKO)</h3>
+        </div>
+        <div>
+          <h1><b>Track LARRY</b></h1>
+          <h3>P24 (poslucháreň T-Systems)</h3>
+        </div>
+      </div>
 
       <neon-animated-pages selected="[[app.selectedDay]]" attr-for-selected="name">
         <template is="dom-repeat" items="[[schedule]]" as="day" on-dom-change="updateCascadedNodes">
